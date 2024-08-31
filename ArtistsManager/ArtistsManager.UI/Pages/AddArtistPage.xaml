@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:sys="clr-namespace:System;assembly=netstandard"
+             x:Class="ArtistsManager.UI.Pages.AddArtistPage"
+             xmlns:models="clr-namespace:ArtistsManager.UI.ViewModels"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             x:DataType="models:AddArtistViewModel">
+    <VerticalStackLayout>
+        <Image Source="{Binding SelectedPhoto}" Aspect="AspectFit" WidthRequest="500" HeightRequest="250"/>
+        <Entry WidthRequest="800" Placeholder="Name" MaxLength="20" Text="{Binding Name}"/>
+        <DatePicker WidthRequest="800" Date="{Binding DateOfBirth}" MaximumDate="{x:Static sys:DateTime.Today}"/>
+        <Button Text="Choose Photo" BackgroundColor="#e76f51" WidthRequest="800">
+            <Button.Behaviors>
+                <toolkit:EventToCommandBehavior EventName="Clicked" Command="{Binding ChoosePhotoCommand}"/>
+            </Button.Behaviors>
+        </Button>
+
+        <Button Text="Add" BackgroundColor="#e76f51" WidthRequest="800">
+            <Button.Behaviors>
+                <toolkit:EventToCommandBehavior EventName="Clicked" Command="{Binding AddArtistCommand}"/>
+            </Button.Behaviors>
+       </Button>
+    </VerticalStackLayout>
+</ContentPage>

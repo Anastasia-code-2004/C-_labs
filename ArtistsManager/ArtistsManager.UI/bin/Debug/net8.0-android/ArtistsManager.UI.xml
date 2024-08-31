@@ -1,0 +1,353 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ArtistsManager.UI</name>
+    </assembly>
+    <members>
+        <member name="T:ArtistsManager.UI.ViewModels.AddArtistViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.AddArtistViewModel.Name">
+            <inheritdoc cref="F:ArtistsManager.UI.ViewModels.AddArtistViewModel._name"/>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.AddArtistViewModel.DateOfBirth">
+            <inheritdoc cref="F:ArtistsManager.UI.ViewModels.AddArtistViewModel._dateOfBirth"/>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.AddArtistViewModel.SelectedPhoto">
+            <inheritdoc cref="F:ArtistsManager.UI.ViewModels.AddArtistViewModel._selectedPhoto"/>
+        </member>
+        <member name="F:ArtistsManager.UI.ViewModels.AddArtistViewModel.addArtistCommand">
+            <summary>The backing field for <see cref="P:ArtistsManager.UI.ViewModels.AddArtistViewModel.AddArtistCommand"/>.</summary>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.AddArtistViewModel.AddArtistCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:ArtistsManager.UI.ViewModels.AddArtistViewModel.AddArtistAsync"/>.</summary>
+        </member>
+        <member name="F:ArtistsManager.UI.ViewModels.AddArtistViewModel.choosePhotoCommand">
+            <summary>The backing field for <see cref="P:ArtistsManager.UI.ViewModels.AddArtistViewModel.ChoosePhotoCommand"/>.</summary>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.AddArtistViewModel.ChoosePhotoCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:ArtistsManager.UI.ViewModels.AddArtistViewModel.ChoosePhotoAsync"/>.</summary>
+        </member>
+        <member name="T:ArtistsManager.UI.ViewModels.AddSongViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.AddSongViewModel.Title">
+            <inheritdoc cref="F:ArtistsManager.UI.ViewModels.AddSongViewModel._title"/>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.AddSongViewModel.Genre">
+            <inheritdoc cref="F:ArtistsManager.UI.ViewModels.AddSongViewModel._genre"/>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.AddSongViewModel.ReleaseDate">
+            <inheritdoc cref="F:ArtistsManager.UI.ViewModels.AddSongViewModel._releaseDate"/>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.AddSongViewModel.ChartPosition">
+            <inheritdoc cref="F:ArtistsManager.UI.ViewModels.AddSongViewModel._chartPosition"/>
+        </member>
+        <member name="F:ArtistsManager.UI.ViewModels.AddSongViewModel.addSongCommand">
+            <summary>The backing field for <see cref="P:ArtistsManager.UI.ViewModels.AddSongViewModel.AddSongCommand"/>.</summary>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.AddSongViewModel.AddSongCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:ArtistsManager.UI.ViewModels.AddSongViewModel.AddSongAsync"/>.</summary>
+        </member>
+        <member name="T:ArtistsManager.UI.ViewModels.ArtistsViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.ArtistsViewModel.SelectedArtist">
+            <inheritdoc cref="F:ArtistsManager.UI.ViewModels.ArtistsViewModel.selectedArtist"/>
+        </member>
+        <member name="F:ArtistsManager.UI.ViewModels.ArtistsViewModel.updateArtistsCommand">
+            <summary>The backing field for <see cref="P:ArtistsManager.UI.ViewModels.ArtistsViewModel.UpdateArtistsCommand"/>.</summary>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.ArtistsViewModel.UpdateArtistsCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:ArtistsManager.UI.ViewModels.ArtistsViewModel.UpdateArtistsAsync"/>.</summary>
+        </member>
+        <member name="F:ArtistsManager.UI.ViewModels.ArtistsViewModel.updateSongsCommand">
+            <summary>The backing field for <see cref="P:ArtistsManager.UI.ViewModels.ArtistsViewModel.UpdateSongsCommand"/>.</summary>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.ArtistsViewModel.UpdateSongsCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:ArtistsManager.UI.ViewModels.ArtistsViewModel.UpdateSongsAsync"/>.</summary>
+        </member>
+        <member name="F:ArtistsManager.UI.ViewModels.ArtistsViewModel.addArtistCommand">
+            <summary>The backing field for <see cref="P:ArtistsManager.UI.ViewModels.ArtistsViewModel.AddArtistCommand"/>.</summary>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.ArtistsViewModel.AddArtistCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:ArtistsManager.UI.ViewModels.ArtistsViewModel.AddArtistAsync"/>.</summary>
+        </member>
+        <member name="F:ArtistsManager.UI.ViewModels.ArtistsViewModel.addSongCommand">
+            <summary>The backing field for <see cref="P:ArtistsManager.UI.ViewModels.ArtistsViewModel.AddSongCommand"/>.</summary>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.ArtistsViewModel.AddSongCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:ArtistsManager.UI.ViewModels.ArtistsViewModel.AddSongAsync(System.Int32)"/>.</summary>
+        </member>
+        <member name="F:ArtistsManager.UI.ViewModels.ArtistsViewModel.deleteArtistCommand">
+            <summary>The backing field for <see cref="P:ArtistsManager.UI.ViewModels.ArtistsViewModel.DeleteArtistCommand"/>.</summary>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.ArtistsViewModel.DeleteArtistCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:ArtistsManager.UI.ViewModels.ArtistsViewModel.DeleteArtistAsync(System.Int32)"/>.</summary>
+        </member>
+        <member name="F:ArtistsManager.UI.ViewModels.ArtistsViewModel.showDetailsCommand">
+            <summary>The backing field for <see cref="P:ArtistsManager.UI.ViewModels.ArtistsViewModel.ShowDetailsCommand"/>.</summary>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.ArtistsViewModel.ShowDetailsCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:ArtistsManager.UI.ViewModels.ArtistsViewModel.ShowDetails(ArtistsManager.Domain.Entities.Song)"/>.</summary>
+        </member>
+        <member name="T:ArtistsManager.UI.ViewModels.EditSongViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.EditSongViewModel.Song">
+            <inheritdoc cref="F:ArtistsManager.UI.ViewModels.EditSongViewModel._song"/>
+        </member>
+        <member name="F:ArtistsManager.UI.ViewModels.EditSongViewModel.editSongCommand">
+            <summary>The backing field for <see cref="P:ArtistsManager.UI.ViewModels.EditSongViewModel.EditSongCommand"/>.</summary>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.EditSongViewModel.EditSongCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:ArtistsManager.UI.ViewModels.EditSongViewModel.EditSongAsync"/>.</summary>
+        </member>
+        <member name="T:ArtistsManager.UI.ViewModels.MoveSongViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.MoveSongViewModel.Song">
+            <inheritdoc cref="F:ArtistsManager.UI.ViewModels.MoveSongViewModel._song"/>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.MoveSongViewModel.SelectedArtist">
+            <inheritdoc cref="F:ArtistsManager.UI.ViewModels.MoveSongViewModel._selectedArtist"/>
+        </member>
+        <member name="F:ArtistsManager.UI.ViewModels.MoveSongViewModel.updateArtistsCommand">
+            <summary>The backing field for <see cref="P:ArtistsManager.UI.ViewModels.MoveSongViewModel.UpdateArtistsCommand"/>.</summary>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.MoveSongViewModel.UpdateArtistsCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:ArtistsManager.UI.ViewModels.MoveSongViewModel.UpdateArtistsAsync"/>.</summary>
+        </member>
+        <member name="F:ArtistsManager.UI.ViewModels.MoveSongViewModel.moveSongCommand">
+            <summary>The backing field for <see cref="P:ArtistsManager.UI.ViewModels.MoveSongViewModel.MoveSongCommand"/>.</summary>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.MoveSongViewModel.MoveSongCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:ArtistsManager.UI.ViewModels.MoveSongViewModel.MoveSongAsync"/>.</summary>
+        </member>
+        <member name="T:ArtistsManager.UI.ViewModels.SongDetailsViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.SongDetailsViewModel.Song">
+            <inheritdoc cref="F:ArtistsManager.UI.ViewModels.SongDetailsViewModel._song"/>
+        </member>
+        <member name="F:ArtistsManager.UI.ViewModels.SongDetailsViewModel.deleteSongCommand">
+            <summary>The backing field for <see cref="P:ArtistsManager.UI.ViewModels.SongDetailsViewModel.DeleteSongCommand"/>.</summary>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.SongDetailsViewModel.DeleteSongCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:ArtistsManager.UI.ViewModels.SongDetailsViewModel.DeleteSongAsync"/>.</summary>
+        </member>
+        <member name="F:ArtistsManager.UI.ViewModels.SongDetailsViewModel.moveSongCommand">
+            <summary>The backing field for <see cref="P:ArtistsManager.UI.ViewModels.SongDetailsViewModel.MoveSongCommand"/>.</summary>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.SongDetailsViewModel.MoveSongCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:ArtistsManager.UI.ViewModels.SongDetailsViewModel.MoveSongAsync"/>.</summary>
+        </member>
+        <member name="F:ArtistsManager.UI.ViewModels.SongDetailsViewModel.editSongCommand">
+            <summary>The backing field for <see cref="P:ArtistsManager.UI.ViewModels.SongDetailsViewModel.EditSongCommand"/>.</summary>
+        </member>
+        <member name="P:ArtistsManager.UI.ViewModels.SongDetailsViewModel.EditSongCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:ArtistsManager.UI.ViewModels.SongDetailsViewModel.EditSongAsync"/>.</summary>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Button.TextColorTo(Microsoft.Maui.Controls.Button,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_DatePicker.TextColorTo(Microsoft.Maui.Controls.DatePicker,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Editor.TextColorTo(Microsoft.Maui.Controls.Editor,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Entry.TextColorTo(Microsoft.Maui.Controls.Entry,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_InputView.TextColorTo(Microsoft.Maui.Controls.InputView,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Label.TextColorTo(Microsoft.Maui.Controls.Label,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Picker.TextColorTo(Microsoft.Maui.Controls.Picker,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_RadioButton.TextColorTo(Microsoft.Maui.Controls.RadioButton,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_SearchBar.TextColorTo(Microsoft.Maui.Controls.SearchBar,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_TimePicker.TextColorTo(Microsoft.Maui.Controls.TimePicker,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Name">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Name" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.DateOfBirth">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "DateOfBirth" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.SelectedPhoto">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "SelectedPhoto" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Title">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Title" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Genre">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Genre" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ReleaseDate">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ReleaseDate" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ChartPosition">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ChartPosition" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.SelectedArtist">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "SelectedArtist" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Song">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Song" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Name">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Name" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.DateOfBirth">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "DateOfBirth" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.SelectedPhoto">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "SelectedPhoto" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Title">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Title" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Genre">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Genre" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ReleaseDate">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ReleaseDate" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ChartPosition">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ChartPosition" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.SelectedArtist">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "SelectedArtist" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Song">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Song" generated properties.</summary>
+        </member>
+    </members>
+</doc>

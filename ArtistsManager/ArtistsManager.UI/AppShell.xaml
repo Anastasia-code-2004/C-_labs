@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="ArtistsManager.UI.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:ArtistsManager.UI"
+    xmlns:pages="clr-namespace:ArtistsManager.UI.Pages"
+    Title="ArtistsManager.UI">
+
+    <ShellContent
+        Title="Home"
+        Icon="home.png"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+    <ShellContent
+        Title="Artists List"
+        Icon="microphone.png"
+        ContentTemplate="{DataTemplate pages:ArtistsPage}"
+        Route="ArtistsPage" />
+
+</Shell>

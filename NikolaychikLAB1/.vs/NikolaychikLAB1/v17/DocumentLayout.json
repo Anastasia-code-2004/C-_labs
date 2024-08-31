@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|c:\\users\\naaan\\source\\c#\\nikolaychiklab1\\loadingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|solutionrelative:loadingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|c:\\users\\naaan\\source\\c#\\nikolaychiklab1\\loadingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|solutionrelative:loadingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|c:\\users\\naaan\\source\\c#\\nikolaychiklab1\\calculatorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|solutionrelative:calculatorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|c:\\users\\naaan\\source\\c#\\nikolaychiklab1\\entities\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|solutionrelative:entities\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|c:\\users\\naaan\\source\\c#\\nikolaychiklab1\\services\\sqliteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|solutionrelative:services\\sqliteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|c:\\users\\naaan\\source\\c#\\nikolaychiklab1\\entities\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|solutionrelative:entities\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|c:\\users\\naaan\\source\\c#\\nikolaychiklab1\\calculatorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|solutionrelative:calculatorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|c:\\users\\naaan\\source\\c#\\nikolaychiklab1\\artistsongspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|solutionrelative:artistsongspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|c:\\users\\naaan\\source\\c#\\nikolaychiklab1\\artistsongspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|solutionrelative:artistsongspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|c:\\users\\naaan\\source\\c#\\nikolaychiklab1\\entities\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|solutionrelative:entities\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|c:\\users\\naaan\\source\\c#\\nikolaychiklab1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|c:\\users\\naaan\\source\\c#\\nikolaychiklab1\\services\\idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|solutionrelative:services\\idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|c:\\users\\naaan\\source\\c#\\nikolaychiklab1\\services\\rateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|solutionrelative:services\\rateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|c:\\users\\naaan\\source\\c#\\nikolaychiklab1\\currencyconverterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|solutionrelative:currencyconverterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|c:\\users\\naaan\\source\\c#\\nikolaychiklab1\\currencyconverterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AEAE506-DC64-4F27-9530-ECBB62A98CF2}|NikolaychikLAB1.csproj|solutionrelative:currencyconverterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoadingPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\LoadingPage.xaml.cs",
+              "RelativeDocumentMoniker": "LoadingPage.xaml.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\LoadingPage.xaml.cs",
+              "RelativeToolTip": "LoadingPage.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:07:53.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoadingPage.xaml",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\LoadingPage.xaml",
+              "RelativeDocumentMoniker": "LoadingPage.xaml",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\LoadingPage.xaml",
+              "RelativeToolTip": "LoadingPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-19T09:07:45.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\Entities\\Song.cs",
+              "RelativeDocumentMoniker": "Entities\\Song.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\Entities\\Song.cs",
+              "RelativeToolTip": "Entities\\Song.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T06:20:31.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rate.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\Entities\\Rate.cs",
+              "RelativeDocumentMoniker": "Entities\\Rate.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\Entities\\Rate.cs",
+              "RelativeToolTip": "Entities\\Rate.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T06:20:28.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArtistSongsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\ArtistSongsPage.xaml",
+              "RelativeDocumentMoniker": "ArtistSongsPage.xaml",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\ArtistSongsPage.xaml",
+              "RelativeToolTip": "ArtistSongsPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T16:22:56.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\Entities\\Artist.cs",
+              "RelativeDocumentMoniker": "Entities\\Artist.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\Entities\\Artist.cs",
+              "RelativeToolTip": "Entities\\Artist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:53:07.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDbService.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\Services\\IDbService.cs",
+              "RelativeDocumentMoniker": "Services\\IDbService.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\Services\\IDbService.cs",
+              "RelativeToolTip": "Services\\IDbService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:47:16.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\CalculatorPage.xaml.cs",
+              "RelativeDocumentMoniker": "CalculatorPage.xaml.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\CalculatorPage.xaml.cs",
+              "RelativeToolTip": "CalculatorPage.xaml.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAuwNwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T10:15:57.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T10:05:39.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RateService.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\Services\\RateService.cs",
+              "RelativeDocumentMoniker": "Services\\RateService.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\Services\\RateService.cs",
+              "RelativeToolTip": "Services\\RateService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T10:05:18.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQLiteService.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\Services\\SQLiteService.cs",
+              "RelativeDocumentMoniker": "Services\\SQLiteService.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\Services\\SQLiteService.cs",
+              "RelativeToolTip": "Services\\SQLiteService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T09:47:19.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalculatorPage.xaml",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\CalculatorPage.xaml",
+              "RelativeDocumentMoniker": "CalculatorPage.xaml",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\CalculatorPage.xaml",
+              "RelativeToolTip": "CalculatorPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T12:49:43.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArtistSongsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\ArtistSongsPage.xaml.cs",
+              "RelativeDocumentMoniker": "ArtistSongsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\ArtistSongsPage.xaml.cs",
+              "RelativeToolTip": "ArtistSongsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T09:46:48.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CurrencyConverterPage.xaml",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\CurrencyConverterPage.xaml",
+              "RelativeDocumentMoniker": "CurrencyConverterPage.xaml",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\CurrencyConverterPage.xaml",
+              "RelativeToolTip": "CurrencyConverterPage.xaml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T09:42:14.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CurrencyConverterPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\CurrencyConverterPage.xaml.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterPage.xaml.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\NikolaychikLAB1\\CurrencyConverterPage.xaml.cs",
+              "RelativeToolTip": "CurrencyConverterPage.xaml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwFAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T10:41:01.613Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 174,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

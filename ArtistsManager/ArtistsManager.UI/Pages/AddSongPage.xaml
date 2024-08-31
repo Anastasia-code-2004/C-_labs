@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:sys="clr-namespace:System;assembly=netstandard"
+             x:Class="ArtistsManager.UI.Pages.AddSongPage"
+             xmlns:models="clr-namespace:ArtistsManager.UI.ViewModels"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             x:DataType="models:AddSongViewModel">
+    <VerticalStackLayout>
+        <Entry WidthRequest="800" Placeholder="Title" Text="{Binding Title}"/>
+        <Entry WidthRequest="800" Placeholder="Genre" Text="{Binding Genre}"/>
+        <Entry WidthRequest="800" Placeholder="Chart position" Text="{Binding ChartPosition}"/>
+        <DatePicker WidthRequest="800" Date="{Binding ReleaseDate}" MaximumDate="{x:Static sys:DateTime.Today}"/>
+        <Button WidthRequest="800" Text="Add" BackgroundColor="#2a9d8f">
+            <Button.Behaviors>
+                <toolkit:EventToCommandBehavior EventName="Clicked" Command="{Binding AddSongCommand}"/>
+            </Button.Behaviors>
+        </Button>
+    </VerticalStackLayout>
+</ContentPage>

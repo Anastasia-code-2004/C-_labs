@@ -1,0 +1,15 @@
+C:\Users\naaan\source\C#\ArtistsManager\ArtistManager.Persistence\bin\Debug\net8.0\ArtistsManager.Persistence.deps.json
+C:\Users\naaan\source\C#\ArtistsManager\ArtistManager.Persistence\bin\Debug\net8.0\ArtistsManager.Persistence.dll
+C:\Users\naaan\source\C#\ArtistsManager\ArtistManager.Persistence\bin\Debug\net8.0\ArtistsManager.Persistence.pdb
+C:\Users\naaan\source\C#\ArtistsManager\ArtistManager.Persistence\bin\Debug\net8.0\ArtistsManager.Domain.dll
+C:\Users\naaan\source\C#\ArtistsManager\ArtistManager.Persistence\bin\Debug\net8.0\ArtistsManager.Domain.pdb
+C:\Users\naaan\source\C#\ArtistsManager\ArtistManager.Persistence\obj\Debug\net8.0\ArtistsManager.Persistence.csproj.AssemblyReference.cache
+C:\Users\naaan\source\C#\ArtistsManager\ArtistManager.Persistence\obj\Debug\net8.0\ArtistsManager.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naaan\source\C#\ArtistsManager\ArtistManager.Persistence\obj\Debug\net8.0\ArtistsManager.Persistence.AssemblyInfoInputs.cache
+C:\Users\naaan\source\C#\ArtistsManager\ArtistManager.Persistence\obj\Debug\net8.0\ArtistsManager.Persistence.AssemblyInfo.cs
+C:\Users\naaan\source\C#\ArtistsManager\ArtistManager.Persistence\obj\Debug\net8.0\ArtistsManager.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\naaan\source\C#\ArtistsManager\ArtistManager.Persistence\obj\Debug\net8.0\ArtistsM.882518DB.Up2Date
+C:\Users\naaan\source\C#\ArtistsManager\ArtistManager.Persistence\obj\Debug\net8.0\ArtistsManager.Persistence.dll
+C:\Users\naaan\source\C#\ArtistsManager\ArtistManager.Persistence\obj\Debug\net8.0\refint\ArtistsManager.Persistence.dll
+C:\Users\naaan\source\C#\ArtistsManager\ArtistManager.Persistence\obj\Debug\net8.0\ArtistsManager.Persistence.pdb
+C:\Users\naaan\source\C#\ArtistsManager\ArtistManager.Persistence\obj\Debug\net8.0\ref\ArtistsManager.Persistence.dll

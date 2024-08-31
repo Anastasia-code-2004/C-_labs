@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ArtistsManager.UI.Pages.SongDetailsPage"
+             xmlns:models="clr-namespace:ArtistsManager.UI.ViewModels"
+             x:DataType="models:SongDetailsViewModel"
+             Title="Song Details">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Delete" Command="{Binding DeleteSongCommand}"/>
+        <ToolbarItem Text="Edit" Command="{Binding EditSongCommand}"/>
+        <ToolbarItem Text="Move" Command="{Binding MoveSongCommand}"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="SongLabelStyle" TargetType="Label">
+                <Setter Property="FontSize" Value="24" />
+                <Setter Property="HorizontalOptions" Value="CenterAndExpand"/>
+                <Setter Property="Margin" Value="0,0,0,10"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <VerticalStackLayout>
+        <Label Text="{Binding Song.Title}" Style="{StaticResource SongLabelStyle}" TextColor="#264653"/>
+        <Label Text="{Binding Song.Genre, StringFormat='Genre: {0}'}" 
+               Style="{StaticResource SongLabelStyle}" TextColor="#2a9d8f"/>
+        <Label Text="{Binding Song.ChartPosition, StringFormat='Chart position: {0}'}" 
+               Style="{StaticResource SongLabelStyle}" TextColor="#e76f51"/>
+        <Label Text="{Binding Song.ReleaseDate, StringFormat='Release date: {0:dd/MM/yyyy}'}" 
+               Style="{StaticResource SongLabelStyle}" TextColor="#f4a261"/>
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ArtistsManager.UI.Pages.ArtistsPage"
+             xmlns:models="clr-namespace:ArtistsManager.UI.ViewModels"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             x:DataType="models:ArtistsViewModel"
+             xmlns:entities="clr-namespace:ArtistsManager.Domain.Entities;assembly=ArtistsManager.Domain"
+             xmlns:converters="clr-namespace:ArtistsManager.UI.ValueConverters"
+             Title="List">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add artist" Command="{Binding AddArtistCommand}"/>
+        <ToolbarItem Text="Add song" Command="{Binding AddSongCommand}" CommandParameter="{Binding SelectedArtist.Id}"/>
+        <ToolbarItem Text="Delete Artist" Command="{Binding DeleteArtistCommand}" CommandParameter="{Binding SelectedArtist.Id}"/>
+        <ToolbarItem Text="Edit Artist" Command="{Binding EditArtistCommand}" CommandParameter="{Binding SelectedArtist.Id}"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:RateToColorValueConverter x:Key="RateToColorConverter"/>
+            <converters:IdToImageSourceConverter x:Key="IdToImageSourceConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Behaviors>
+        <toolkit:EventToCommandBehavior EventName="Loaded"  
+                                        Command="{Binding UpdateArtistsCommand}"/>
+    </ContentPage.Behaviors>
+    <Grid ColumnDefinitions="*" RowDefinitions="100, 100, Auto, *">
+        <Picker Title="Select Artist"
+                HeightRequest="60" 
+                ItemsSource="{Binding Artists}"
+                ItemDisplayBinding="{Binding PersonalData.Name}"
+                SelectedItem="{Binding SelectedArtist}">
+                
+            <Picker.Behaviors>
+                <toolkit:EventToCommandBehavior EventName="SelectedIndexChanged"
+                                                Command="{Binding UpdateSongsCommand}"/>
+            </Picker.Behaviors>
+        </Picker>
+        <Label Grid.Row="1" Text="{Binding SelectedArtist.PersonalData.DateOfBirth, StringFormat='Born on {0:dd/MM/yyyy}'}"
+               FontSize="Title"
+               HorizontalOptions="Center"/>
+        <Image Grid.Row="2" Source="{Binding SelectedArtist.Id, Converter={StaticResource IdToImageSourceConverter}}" 
+               Aspect="AspectFit" WidthRequest="300" HeightRequest="150" Margin="0,10,0,0"/>
+
+        <CollectionView Grid.Row="3" ItemsSource="{Binding Songs}" Margin="0,30,0,0">
+            <CollectionView.ItemsLayout>
+                <GridItemsLayout Orientation="Vertical"
+                         Span="1"
+                         VerticalItemSpacing="10"/>
+            </CollectionView.ItemsLayout>
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="entities:Song">
+                    <Frame BorderColor="{Binding ChartPosition, Converter={StaticResource RateToColorConverter}}">
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer Command="{Binding Source={RelativeSource 
+                            AncestorType={x:Type models:ArtistsViewModel}}, Path=ShowDetailsCommand}" 
+                                                  CommandParameter="{Binding}"/>
+                        </Frame.GestureRecognizers>
+                        <Label Text="{Binding Title}"/>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </Grid>
+</ContentPage>

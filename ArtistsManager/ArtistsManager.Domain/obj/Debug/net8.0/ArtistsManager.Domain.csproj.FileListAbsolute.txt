@@ -1,0 +1,11 @@
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Domain\bin\Debug\net8.0\ArtistsManager.Domain.deps.json
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Domain\bin\Debug\net8.0\ArtistsManager.Domain.dll
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Domain\bin\Debug\net8.0\ArtistsManager.Domain.pdb
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Domain\obj\Debug\net8.0\ArtistsManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Domain\obj\Debug\net8.0\ArtistsManager.Domain.AssemblyInfoInputs.cache
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Domain\obj\Debug\net8.0\ArtistsManager.Domain.AssemblyInfo.cs
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Domain\obj\Debug\net8.0\ArtistsManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Domain\obj\Debug\net8.0\ArtistsManager.Domain.dll
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Domain\obj\Debug\net8.0\refint\ArtistsManager.Domain.dll
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Domain\obj\Debug\net8.0\ArtistsManager.Domain.pdb
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Domain\obj\Debug\net8.0\ref\ArtistsManager.Domain.dll

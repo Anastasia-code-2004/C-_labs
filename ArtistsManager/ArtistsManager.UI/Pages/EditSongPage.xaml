@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:sys="clr-namespace:System;assembly=netstandard"
+             x:Class="ArtistsManager.UI.Pages.EditSongPage"
+             xmlns:models="clr-namespace:ArtistsManager.UI.ViewModels"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             x:DataType="models:EditSongViewModel">
+    <VerticalStackLayout>
+        <Entry WidthRequest="800" Placeholder="Title" Text="{Binding Song.Title, Mode=TwoWay}"/>
+        <Entry WidthRequest="800" Placeholder="Genre" Text="{Binding Song.Genre, Mode=TwoWay}"/>
+        <Entry WidthRequest="800" Placeholder="Chart position" 
+               Text="{Binding Song.ChartPosition, Mode=TwoWay}"/>
+        <DatePicker WidthRequest="800" Date="{Binding Song.ReleaseDate, Mode=TwoWay}" 
+                    MaximumDate="{x:Static sys:DateTime.Today}"/>
+        <Button WidthRequest="800" Text="Save" BackgroundColor="#e63946">
+            <Button.Behaviors>
+                <toolkit:EventToCommandBehavior EventName="Clicked" Command="{Binding EditSongCommand}"/>
+            </Button.Behaviors>
+        </Button>
+    </VerticalStackLayout>
+        
+</ContentPage>

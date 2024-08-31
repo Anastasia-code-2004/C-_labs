@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="NikolaychikLAB1.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:NikolaychikLAB1"
+    
+    Title="Labs">
+
+    
+    
+    <FlyoutItem Title="Home" Icon="home.png">
+        <ShellContent
+        ContentTemplate="{DataTemplate local:MainPage}" />
+    </FlyoutItem>
+    
+    <FlyoutItem Title="Calculator" Icon="calculator.png">
+        <ShellContent
+        ContentTemplate="{DataTemplate local:CalculatorPage}" />
+    </FlyoutItem>
+    
+    <FlyoutItem Title="Loading" Icon="loading.png">
+        <ShellContent
+        ContentTemplate="{DataTemplate local:LoadingPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Music" Icon="music.png">
+        <ShellContent
+        ContentTemplate="{DataTemplate local:ArtistSongsPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Converter" Icon="converter.png">
+        <ShellContent
+        ContentTemplate="{DataTemplate local:CurrencyConverterPage}" />
+    </FlyoutItem>
+
+</Shell>
+
+    

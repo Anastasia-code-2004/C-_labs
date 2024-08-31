@@ -1,0 +1,1 @@
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.UI\ArtistsManager.UI.csproj;x64

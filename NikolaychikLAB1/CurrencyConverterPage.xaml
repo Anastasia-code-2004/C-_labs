@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             x:Class="NikolaychikLAB1.CurrencyConverterPage"
+             Title="Currency Converter">
+    <Grid ColumnDefinitions="*,*">
+        <VerticalStackLayout>
+            <Label x:Name="ResLab"
+                Margin="90"
+                VerticalOptions="Center" 
+                HorizontalOptions="Center" />
+
+            <DatePicker x:Name="date"
+                MinimumDate="10/01/1999"
+                Margin="100"
+                HorizontalOptions="Center"
+                MaximumDate="{x:Static sys:DateTime.Today}"
+                Date="{x:Static sys:DateTime.Today}"
+                DateSelected="DatePicker_DateSelected"/>
+        </VerticalStackLayout>
+        <VerticalStackLayout Grid.Column="1">
+            <Picker HorizontalOptions="Center" Margin="90" SelectedIndexChanged="Picker_SelectedIndexChanged">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>USD</x:String>
+                        <x:String>EUR</x:String>
+                        <x:String>CNY</x:String>
+                        <x:String>RUB</x:String>
+                        <x:String>GBP</x:String>
+                        <x:String>CHF</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <Label x:Name="BYNCur"
+                   Text="BYN"
+                   HorizontalOptions="Center"/>
+            <Entry x:Name="BYNentry"
+                   MaxLength="10"
+                   HorizontalOptions="Center"
+                   TextChanged="BYNentry_TextChanged"/>
+            <Label x:Name="ConvertCur"
+                   HorizontalOptions="Center"
+                   Margin="20"/>
+            <Entry x:Name="CURentry"
+                   HorizontalOptions="Center"
+                   IsEnabled="False"
+            />
+            <Button Text="Change Direction"
+                    Margin="15"
+                    Background="White"
+                    TextColor="Gray"
+                    Clicked="DirectionButton_Clicked"/>
+        </VerticalStackLayout>
+    </Grid>
+</ContentPage>

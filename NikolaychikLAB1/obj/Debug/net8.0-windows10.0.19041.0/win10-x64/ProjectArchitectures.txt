@@ -1,0 +1,1 @@
+C:\Users\naaan\source\C#\NikolaychikLAB1\NikolaychikLAB1.csproj;x64

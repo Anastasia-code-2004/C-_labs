@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ArtistsManager.UI.Pages.EditArtistPage"
+             xmlns:sys="clr-namespace:System;assembly=netstandard"
+             xmlns:models="clr-namespace:ArtistsManager.UI.ViewModels"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             xmlns:converters="clr-namespace:ArtistsManager.UI.ValueConverters"
+             x:DataType="models:EditArtistViewModel">
+    <ContentPage.Behaviors>
+        <toolkit:EventToCommandBehavior EventName="Loaded"  
+                                    Command="{Binding UpdateInfoCommand}"/>
+    </ContentPage.Behaviors>
+    <VerticalStackLayout>
+        <Image Source="{Binding SelectedPhoto}" 
+                    Aspect="AspectFit" WidthRequest="500" HeightRequest="250"/>
+        <Entry WidthRequest="800" Placeholder="Name" Text="{Binding Artist.PersonalData.Name, Mode=TwoWay}"/>
+        <DatePicker WidthRequest="800" Date="{Binding Artist.PersonalData.DateOfBirth, Mode=TwoWay}" 
+                MaximumDate="{x:Static sys:DateTime.Today}"/>
+        <Button Text="Choose Photo" BackgroundColor="#a8dadc" WidthRequest="800">
+            <Button.Behaviors>
+                <toolkit:EventToCommandBehavior EventName="Clicked" Command="{Binding ChoosePhotoCommand}"/>
+            </Button.Behaviors>
+        </Button>
+        <Button WidthRequest="800" Text="Save" BackgroundColor="#e63946">
+            <Button.Behaviors>
+                <toolkit:EventToCommandBehavior EventName="Clicked" Command="{Binding EditArtistCommand}"/>
+            </Button.Behaviors>
+        </Button>
+    </VerticalStackLayout>
+</ContentPage>

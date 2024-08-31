@@ -1,0 +1,1154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\pages\\artistspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\pages\\artistspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\viewmodels\\addartistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\viewmodels\\addartistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\pages\\addartistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\pages\\addartistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\valueconverters\\idtoimagesourceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\valueconverters\\idtoimagesourceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\viewmodels\\artistsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\viewmodels\\artistsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\viewmodels\\editartistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\viewmodels\\editartistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\viewmodels\\addsongviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\viewmodels\\addsongviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.application\\artistusecases\\commands\\addartistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|solutionrelative:artistsmanager.application\\artistusecases\\commands\\addartistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.application\\songusecases\\commands\\getsongsbyartistrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|solutionrelative:artistsmanager.application\\songusecases\\commands\\getsongsbyartistrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.application\\songusecases\\queries\\getsongsbyartistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|solutionrelative:artistsmanager.application\\songusecases\\queries\\getsongsbyartistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\viewmodels\\songdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\viewmodels\\songdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\pages\\addsongpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\pages\\addsongpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\pages\\editartistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\pages\\editartistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\pages\\editsongpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\pages\\editsongpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.application\\songusecases\\commands\\editsongcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|solutionrelative:artistsmanager.application\\songusecases\\commands\\editsongcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.application\\songusecases\\queries\\editsongcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|solutionrelative:artistsmanager.application\\songusecases\\queries\\editsongcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\viewmodels\\editsongviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\viewmodels\\editsongviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.application\\artistusecases\\commands\\deleteartistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|solutionrelative:artistsmanager.application\\artistusecases\\commands\\deleteartistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.application\\artistusecases\\queries\\deleteartistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|solutionrelative:artistsmanager.application\\artistusecases\\queries\\deleteartistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.application\\songusecases\\queries\\addsongcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|solutionrelative:artistsmanager.application\\songusecases\\queries\\addsongcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.application\\songusecases\\commands\\addsongcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|solutionrelative:artistsmanager.application\\songusecases\\commands\\addsongcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.application\\artistusecases\\queries\\addartistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|solutionrelative:artistsmanager.application\\artistusecases\\queries\\addartistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\pages\\artistspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\pages\\artistspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.application\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|solutionrelative:artistsmanager.application\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\pages\\songdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\pages\\songdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\pages\\movesongpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\pages\\movesongpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.application\\artistusecases\\commands\\getallexceptidartistscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|solutionrelative:artistsmanager.application\\artistusecases\\commands\\getallexceptidartistscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.application\\artistusecases\\commands\\getartistsbyrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|solutionrelative:artistsmanager.application\\artistusecases\\commands\\getartistsbyrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.application\\artistusecases\\commands\\getartistbyidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|solutionrelative:artistsmanager.application\\artistusecases\\commands\\getartistbyidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.application\\artistusecases\\queries\\getartistbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|solutionrelative:artistsmanager.application\\artistusecases\\queries\\getartistbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.application\\artistusecases\\queries\\editartistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|solutionrelative:artistsmanager.application\\artistusecases\\queries\\editartistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.application\\artistusecases\\queries\\getartistsbyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|solutionrelative:artistsmanager.application\\artistusecases\\queries\\getartistsbyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.application\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|solutionrelative:artistsmanager.application\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|solutionrelative:artistsmanager.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F9DDB4-AC4E-4F03-BAE3-620F43FC80E4}|ArtistManager.Persistence\\ArtistsManager.Persistence.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistmanager.persistence\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F9DDB4-AC4E-4F03-BAE3-620F43FC80E4}|ArtistManager.Persistence\\ArtistsManager.Persistence.csproj|solutionrelative:artistmanager.persistence\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F9DDB4-AC4E-4F03-BAE3-620F43FC80E4}|ArtistManager.Persistence\\ArtistsManager.Persistence.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistmanager.persistence\\repository\\efunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F9DDB4-AC4E-4F03-BAE3-620F43FC80E4}|ArtistManager.Persistence\\ArtistsManager.Persistence.csproj|solutionrelative:artistmanager.persistence\\repository\\efunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F9DDB4-AC4E-4F03-BAE3-620F43FC80E4}|ArtistManager.Persistence\\ArtistsManager.Persistence.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistmanager.persistence\\repository\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F9DDB4-AC4E-4F03-BAE3-620F43FC80E4}|ArtistManager.Persistence\\ArtistsManager.Persistence.csproj|solutionrelative:artistmanager.persistence\\repository\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F9DDB4-AC4E-4F03-BAE3-620F43FC80E4}|ArtistManager.Persistence\\ArtistsManager.Persistence.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistmanager.persistence\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F9DDB4-AC4E-4F03-BAE3-620F43FC80E4}|ArtistManager.Persistence\\ArtistsManager.Persistence.csproj|solutionrelative:artistmanager.persistence\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F9DDB4-AC4E-4F03-BAE3-620F43FC80E4}|ArtistManager.Persistence\\ArtistsManager.Persistence.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistmanager.persistence\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F9DDB4-AC4E-4F03-BAE3-620F43FC80E4}|ArtistManager.Persistence\\ArtistsManager.Persistence.csproj|solutionrelative:artistmanager.persistence\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F9DDB4-AC4E-4F03-BAE3-620F43FC80E4}|ArtistManager.Persistence\\ArtistsManager.Persistence.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistmanager.persistence\\repository\\fakeunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F9DDB4-AC4E-4F03-BAE3-620F43FC80E4}|ArtistManager.Persistence\\ArtistsManager.Persistence.csproj|solutionrelative:artistmanager.persistence\\repository\\fakeunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15202820-953A-44CE-BFEC-18B158011DC6}|ArtistsManager.Domain\\ArtistsManager.Domain.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15202820-953A-44CE-BFEC-18B158011DC6}|ArtistsManager.Domain\\ArtistsManager.Domain.csproj|solutionrelative:artistsmanager.domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15202820-953A-44CE-BFEC-18B158011DC6}|ArtistsManager.Domain\\ArtistsManager.Domain.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.domain\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15202820-953A-44CE-BFEC-18B158011DC6}|ArtistsManager.Domain\\ArtistsManager.Domain.csproj|solutionrelative:artistsmanager.domain\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15202820-953A-44CE-BFEC-18B158011DC6}|ArtistsManager.Domain\\ArtistsManager.Domain.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.domain\\entities\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15202820-953A-44CE-BFEC-18B158011DC6}|ArtistsManager.Domain\\ArtistsManager.Domain.csproj|solutionrelative:artistsmanager.domain\\entities\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15202820-953A-44CE-BFEC-18B158011DC6}|ArtistsManager.Domain\\ArtistsManager.Domain.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.domain\\entities\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15202820-953A-44CE-BFEC-18B158011DC6}|ArtistsManager.Domain\\ArtistsManager.Domain.csproj|solutionrelative:artistsmanager.domain\\entities\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15202820-953A-44CE-BFEC-18B158011DC6}|ArtistsManager.Domain\\ArtistsManager.Domain.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.domain\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15202820-953A-44CE-BFEC-18B158011DC6}|ArtistsManager.Domain\\ArtistsManager.Domain.csproj|solutionrelative:artistsmanager.domain\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15202820-953A-44CE-BFEC-18B158011DC6}|ArtistsManager.Domain\\ArtistsManager.Domain.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15202820-953A-44CE-BFEC-18B158011DC6}|ArtistsManager.Domain\\ArtistsManager.Domain.csproj|solutionrelative:artistsmanager.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\viewmodels\\movesongviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\viewmodels\\movesongviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\pages\\editartistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\pages\\editartistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.application\\artistusecases\\commands\\editartistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|solutionrelative:artistsmanager.application\\artistusecases\\commands\\editartistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\valueconverters\\ratetocolorvalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\valueconverters\\ratetocolorvalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\pages\\songdetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\pages\\songdetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.application\\songusecases\\commands\\deletesongcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|solutionrelative:artistsmanager.application\\songusecases\\commands\\deletesongcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.application\\songusecases\\queries\\deletesongcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFFD3B5-A344-41AC-A288-119B808CF8DB}|ArtistsManager.Application\\ArtistsManager.Application.csproj|solutionrelative:artistsmanager.application\\songusecases\\queries\\deletesongcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\pages\\addartistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\pages\\addartistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\pages\\addsongpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\pages\\addsongpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.ui\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FEA0BC-19CF-41C0-8B2C-2A5B15AAFB80}|ArtistsManager.UI\\ArtistsManager.UI.csproj|solutionrelative:artistsmanager.ui\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F9DDB4-AC4E-4F03-BAE3-620F43FC80E4}|ArtistManager.Persistence\\ArtistsManager.Persistence.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistmanager.persistence\\repository\\fakerepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F9DDB4-AC4E-4F03-BAE3-620F43FC80E4}|ArtistManager.Persistence\\ArtistsManager.Persistence.csproj|solutionrelative:artistmanager.persistence\\repository\\fakerepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\naaan\\.nuget\\packages\\communitytoolkit.maui\\7.0.1\\ReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F9DDB4-AC4E-4F03-BAE3-620F43FC80E4}|ArtistManager.Persistence\\ArtistsManager.Persistence.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistmanager.persistence\\artistsmanager.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93F9DDB4-AC4E-4F03-BAE3-620F43FC80E4}|ArtistManager.Persistence\\ArtistsManager.Persistence.csproj|solutionrelative:artistmanager.persistence\\artistsmanager.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15202820-953A-44CE-BFEC-18B158011DC6}|ArtistsManager.Domain\\ArtistsManager.Domain.csproj|c:\\users\\naaan\\source\\c#\\artistsmanager\\artistsmanager.domain\\artistsmanager.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15202820-953A-44CE-BFEC-18B158011DC6}|ArtistsManager.Domain\\ArtistsManager.Domain.csproj|solutionrelative:artistsmanager.domain\\artistsmanager.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddArtistPage.xaml",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Pages\\AddArtistPage.xaml",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\Pages\\AddArtistPage.xaml",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Pages\\AddArtistPage.xaml",
+              "RelativeToolTip": "ArtistsManager.UI\\Pages\\AddArtistPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T11:59:51.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddArtistViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\ViewModels\\AddArtistViewModel.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\ViewModels\\AddArtistViewModel.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\ViewModels\\AddArtistViewModel.cs",
+              "RelativeToolTip": "ArtistsManager.UI\\ViewModels\\AddArtistViewModel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwC8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:59:43.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArtistsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Pages\\ArtistsPage.xaml",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\Pages\\ArtistsPage.xaml",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Pages\\ArtistsPage.xaml",
+              "RelativeToolTip": "ArtistsManager.UI\\Pages\\ArtistsPage.xaml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T09:01:25.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdToImageSourceConverter.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\ValueConverters\\IdToImageSourceConverter.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\ValueConverters\\IdToImageSourceConverter.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\ValueConverters\\IdToImageSourceConverter.cs",
+              "RelativeToolTip": "ArtistsManager.UI\\ValueConverters\\IdToImageSourceConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:10:16.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArtistsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\ViewModels\\ArtistsViewModel.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\ViewModels\\ArtistsViewModel.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\ViewModels\\ArtistsViewModel.cs",
+              "RelativeToolTip": "ArtistsManager.UI\\ViewModels\\ArtistsViewModel.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAmwEoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:07:02.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditArtistViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\ViewModels\\EditArtistViewModel.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\ViewModels\\EditArtistViewModel.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\ViewModels\\EditArtistViewModel.cs",
+              "RelativeToolTip": "ArtistsManager.UI\\ViewModels\\EditArtistViewModel.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA9wEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T09:43:55.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddSongViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\ViewModels\\AddSongViewModel.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\ViewModels\\AddSongViewModel.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\ViewModels\\AddSongViewModel.cs",
+              "RelativeToolTip": "ArtistsManager.UI\\ViewModels\\AddSongViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T21:11:14.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddArtistCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\ArtistUseCases\\Commands\\AddArtistCommandHandler.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Application\\ArtistUseCases\\Commands\\AddArtistCommandHandler.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\ArtistUseCases\\Commands\\AddArtistCommandHandler.cs",
+              "RelativeToolTip": "ArtistsManager.Application\\ArtistUseCases\\Commands\\AddArtistCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:41:12.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetSongsByArtistRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\SongUseCases\\Commands\\GetSongsByArtistRequestHandler.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Application\\SongUseCases\\Commands\\GetSongsByArtistRequestHandler.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\SongUseCases\\Commands\\GetSongsByArtistRequestHandler.cs",
+              "RelativeToolTip": "ArtistsManager.Application\\SongUseCases\\Commands\\GetSongsByArtistRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:16:40.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetSongsByArtistRequest.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\SongUseCases\\Queries\\GetSongsByArtistRequest.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Application\\SongUseCases\\Queries\\GetSongsByArtistRequest.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\SongUseCases\\Queries\\GetSongsByArtistRequest.cs",
+              "RelativeToolTip": "ArtistsManager.Application\\SongUseCases\\Queries\\GetSongsByArtistRequest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T09:54:26.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SongDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\ViewModels\\SongDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\ViewModels\\SongDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\ViewModels\\SongDetailsViewModel.cs",
+              "RelativeToolTip": "ArtistsManager.UI\\ViewModels\\SongDetailsViewModel.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA5wDAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:20:19.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddSongPage.xaml",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Pages\\AddSongPage.xaml",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\Pages\\AddSongPage.xaml",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Pages\\AddSongPage.xaml",
+              "RelativeToolTip": "ArtistsManager.UI\\Pages\\AddSongPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-30T13:55:38.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditArtistPage.xaml",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Pages\\EditArtistPage.xaml",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\Pages\\EditArtistPage.xaml",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Pages\\EditArtistPage.xaml",
+              "RelativeToolTip": "ArtistsManager.UI\\Pages\\EditArtistPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-04T09:42:20.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditSongPage.xaml",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Pages\\EditSongPage.xaml",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\Pages\\EditSongPage.xaml",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Pages\\EditSongPage.xaml",
+              "RelativeToolTip": "ArtistsManager.UI\\Pages\\EditSongPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T18:55:37.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditSongCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\SongUseCases\\Commands\\EditSongCommandHandler.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Application\\SongUseCases\\Commands\\EditSongCommandHandler.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\SongUseCases\\Commands\\EditSongCommandHandler.cs",
+              "RelativeToolTip": "ArtistsManager.Application\\SongUseCases\\Commands\\EditSongCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:36:18.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditSongCommand.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\SongUseCases\\Queries\\EditSongCommand.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Application\\SongUseCases\\Queries\\EditSongCommand.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\SongUseCases\\Queries\\EditSongCommand.cs",
+              "RelativeToolTip": "ArtistsManager.Application\\SongUseCases\\Queries\\EditSongCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:35:26.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditSongViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\ViewModels\\EditSongViewModel.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\ViewModels\\EditSongViewModel.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\ViewModels\\EditSongViewModel.cs",
+              "RelativeToolTip": "ArtistsManager.UI\\ViewModels\\EditSongViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:02:21.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeleteArtistCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\ArtistUseCases\\Commands\\DeleteArtistCommandHandler.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Application\\ArtistUseCases\\Commands\\DeleteArtistCommandHandler.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\ArtistUseCases\\Commands\\DeleteArtistCommandHandler.cs",
+              "RelativeToolTip": "ArtistsManager.Application\\ArtistUseCases\\Commands\\DeleteArtistCommandHandler.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:56:07.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DeleteArtistCommand.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\ArtistUseCases\\Queries\\DeleteArtistCommand.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Application\\ArtistUseCases\\Queries\\DeleteArtistCommand.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\ArtistUseCases\\Queries\\DeleteArtistCommand.cs",
+              "RelativeToolTip": "ArtistsManager.Application\\ArtistUseCases\\Queries\\DeleteArtistCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:53:31.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddSongCommand.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\SongUseCases\\Queries\\AddSongCommand.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Application\\SongUseCases\\Queries\\AddSongCommand.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\SongUseCases\\Queries\\AddSongCommand.cs",
+              "RelativeToolTip": "ArtistsManager.Application\\SongUseCases\\Queries\\AddSongCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:54:40.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddSongCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\SongUseCases\\Commands\\AddSongCommandHandler.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Application\\SongUseCases\\Commands\\AddSongCommandHandler.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\SongUseCases\\Commands\\AddSongCommandHandler.cs",
+              "RelativeToolTip": "ArtistsManager.Application\\SongUseCases\\Commands\\AddSongCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:00:25.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddArtistCommand.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\ArtistUseCases\\Queries\\AddArtistCommand.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Application\\ArtistUseCases\\Queries\\AddArtistCommand.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\ArtistUseCases\\Queries\\AddArtistCommand.cs",
+              "RelativeToolTip": "ArtistsManager.Application\\ArtistUseCases\\Queries\\AddArtistCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:40:09.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\MauiProgram.cs",
+              "RelativeToolTip": "ArtistsManager.UI\\MauiProgram.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:07:29.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ArtistsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Pages\\ArtistsPage.xaml.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\Pages\\ArtistsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Pages\\ArtistsPage.xaml.cs",
+              "RelativeToolTip": "ArtistsManager.UI\\Pages\\ArtistsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T11:15:06.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\AppShell.xaml.cs",
+              "RelativeToolTip": "ArtistsManager.UI\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:26:41.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\App.xaml.cs",
+              "RelativeToolTip": "ArtistsManager.UI\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:49:54.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Application\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\DbInitializer.cs",
+              "RelativeToolTip": "ArtistsManager.Application\\DbInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T20:23:23.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\DependencyInjection.cs",
+              "RelativeToolTip": "ArtistsManager.UI\\DependencyInjection.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:34:14.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\GlobalUsings.cs",
+              "RelativeToolTip": "ArtistsManager.UI\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:15:42.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\MainPage.xaml",
+              "RelativeToolTip": "ArtistsManager.UI\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-22T15:08:24.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SongDetailsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Pages\\SongDetailsPage.xaml",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\Pages\\SongDetailsPage.xaml",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Pages\\SongDetailsPage.xaml",
+              "RelativeToolTip": "ArtistsManager.UI\\Pages\\SongDetailsPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T15:19:35.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MoveSongPage.xaml",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Pages\\MoveSongPage.xaml",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\Pages\\MoveSongPage.xaml",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Pages\\MoveSongPage.xaml",
+              "RelativeToolTip": "ArtistsManager.UI\\Pages\\MoveSongPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T12:04:11.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetAllExceptIdArtistsCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\ArtistUseCases\\Commands\\GetAllExceptIdArtistsCommandHandler.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Application\\ArtistUseCases\\Commands\\GetAllExceptIdArtistsCommandHandler.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\ArtistUseCases\\Commands\\GetAllExceptIdArtistsCommandHandler.cs",
+              "RelativeToolTip": "ArtistsManager.Application\\ArtistUseCases\\Commands\\GetAllExceptIdArtistsCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:32:21.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetArtistsByRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\ArtistUseCases\\Commands\\GetArtistsByRequestHandler.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Application\\ArtistUseCases\\Commands\\GetArtistsByRequestHandler.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\ArtistUseCases\\Commands\\GetArtistsByRequestHandler.cs",
+              "RelativeToolTip": "ArtistsManager.Application\\ArtistUseCases\\Commands\\GetArtistsByRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T21:56:37.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetArtistByIdCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\ArtistUseCases\\Commands\\GetArtistByIdCommandHandler.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Application\\ArtistUseCases\\Commands\\GetArtistByIdCommandHandler.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\ArtistUseCases\\Commands\\GetArtistByIdCommandHandler.cs",
+              "RelativeToolTip": "ArtistsManager.Application\\ArtistUseCases\\Commands\\GetArtistByIdCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:04:37.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetArtistByIdCommand.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\ArtistUseCases\\Queries\\GetArtistByIdCommand.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Application\\ArtistUseCases\\Queries\\GetArtistByIdCommand.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\ArtistUseCases\\Queries\\GetArtistByIdCommand.cs",
+              "RelativeToolTip": "ArtistsManager.Application\\ArtistUseCases\\Queries\\GetArtistByIdCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:00:49.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EditArtistCommand.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\ArtistUseCases\\Queries\\EditArtistCommand.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Application\\ArtistUseCases\\Queries\\EditArtistCommand.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\ArtistUseCases\\Queries\\EditArtistCommand.cs",
+              "RelativeToolTip": "ArtistsManager.Application\\ArtistUseCases\\Queries\\EditArtistCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:24:24.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\App.xaml",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\App.xaml",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\App.xaml",
+              "RelativeToolTip": "ArtistsManager.UI\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-22T16:50:35.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\AppShell.xaml",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\AppShell.xaml",
+              "RelativeToolTip": "ArtistsManager.UI\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-22T16:27:29.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Application\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\GlobalUsings.cs",
+              "RelativeToolTip": "ArtistsManager.Application\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:17:08.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistManager.Persistence\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ArtistManager.Persistence\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistManager.Persistence\\DependencyInjection.cs",
+              "RelativeToolTip": "ArtistManager.Persistence\\DependencyInjection.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAlwBMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:05:22.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GetArtistsByRequest.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\ArtistUseCases\\Queries\\GetArtistsByRequest.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Application\\ArtistUseCases\\Queries\\GetArtistsByRequest.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\ArtistUseCases\\Queries\\GetArtistsByRequest.cs",
+              "RelativeToolTip": "ArtistsManager.Application\\ArtistUseCases\\Queries\\GetArtistsByRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T21:55:28.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EfUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistManager.Persistence\\Repository\\EfUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ArtistManager.Persistence\\Repository\\EfUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistManager.Persistence\\Repository\\EfUnitOfWork.cs",
+              "RelativeToolTip": "ArtistManager.Persistence\\Repository\\EfUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T10:01:54.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "ArtistsManager.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:15:51.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EfRepository.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistManager.Persistence\\Repository\\EfRepository.cs",
+              "RelativeDocumentMoniker": "ArtistManager.Persistence\\Repository\\EfRepository.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistManager.Persistence\\Repository\\EfRepository.cs",
+              "RelativeToolTip": "ArtistManager.Persistence\\Repository\\EfRepository.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAE4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T09:40:37.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistManager.Persistence\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ArtistManager.Persistence\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistManager.Persistence\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ArtistManager.Persistence\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:50:35.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistManager.Persistence\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "ArtistManager.Persistence\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistManager.Persistence\\GlobalUsings.cs",
+              "RelativeToolTip": "ArtistManager.Persistence\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:24:33.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FakeUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistManager.Persistence\\Repository\\FakeUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ArtistManager.Persistence\\Repository\\FakeUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistManager.Persistence\\Repository\\FakeUnitOfWork.cs",
+              "RelativeToolTip": "ArtistManager.Persistence\\Repository\\FakeUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T10:02:06.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Domain\\Abstractions\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Domain\\Abstractions\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Domain\\Abstractions\\IUnitOfWork.cs",
+              "RelativeToolTip": "ArtistsManager.Domain\\Abstractions\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T12:34:37.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Domain\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Domain\\Abstractions\\IRepository.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Domain\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "ArtistsManager.Domain\\Abstractions\\IRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T12:21:04.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Domain\\Entities\\Song.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Domain\\Entities\\Song.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Domain\\Entities\\Song.cs",
+              "RelativeToolTip": "ArtistsManager.Domain\\Entities\\Song.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T11:31:04.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Domain\\Entities\\Artist.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Domain\\Entities\\Artist.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Domain\\Entities\\Artist.cs",
+              "RelativeToolTip": "ArtistsManager.Domain\\Entities\\Artist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T11:25:19.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Domain\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Domain\\Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Domain\\Entities\\Person.cs",
+              "RelativeToolTip": "ArtistsManager.Domain\\Entities\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T11:26:10.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Domain\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Domain\\Entities\\Entity.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Domain\\Entities\\Entity.cs",
+              "RelativeToolTip": "ArtistsManager.Domain\\Entities\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T11:24:23.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MoveSongViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\ViewModels\\MoveSongViewModel.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\ViewModels\\MoveSongViewModel.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\ViewModels\\MoveSongViewModel.cs",
+              "RelativeToolTip": "ArtistsManager.UI\\ViewModels\\MoveSongViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:52:28.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\MainPage.xaml.cs",
+              "RelativeToolTip": "ArtistsManager.UI\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:12:57.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "EditArtistPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Pages\\EditArtistPage.xaml.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\Pages\\EditArtistPage.xaml.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Pages\\EditArtistPage.xaml.cs",
+              "RelativeToolTip": "ArtistsManager.UI\\Pages\\EditArtistPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T09:49:07.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "EditArtistCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\ArtistUseCases\\Commands\\EditArtistCommandHandler.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Application\\ArtistUseCases\\Commands\\EditArtistCommandHandler.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\ArtistUseCases\\Commands\\EditArtistCommandHandler.cs",
+              "RelativeToolTip": "ArtistsManager.Application\\ArtistUseCases\\Commands\\EditArtistCommandHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAvwBIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T09:57:15.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RateToColorValueConverter.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\ValueConverters\\RateToColorValueConverter.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\ValueConverters\\RateToColorValueConverter.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\ValueConverters\\RateToColorValueConverter.cs",
+              "RelativeToolTip": "ArtistsManager.UI\\ValueConverters\\RateToColorValueConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T11:24:16.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SongDetailsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Pages\\SongDetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\Pages\\SongDetailsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Pages\\SongDetailsPage.xaml.cs",
+              "RelativeToolTip": "ArtistsManager.UI\\Pages\\SongDetailsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:21:24.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DeleteSongCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\SongUseCases\\Commands\\DeleteSongCommandHandler.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Application\\SongUseCases\\Commands\\DeleteSongCommandHandler.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\SongUseCases\\Commands\\DeleteSongCommandHandler.cs",
+              "RelativeToolTip": "ArtistsManager.Application\\SongUseCases\\Commands\\DeleteSongCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:52:52.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DeleteSongCommand.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\SongUseCases\\Queries\\DeleteSongCommand.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.Application\\SongUseCases\\Queries\\DeleteSongCommand.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Application\\SongUseCases\\Queries\\DeleteSongCommand.cs",
+              "RelativeToolTip": "ArtistsManager.Application\\SongUseCases\\Queries\\DeleteSongCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:51:13.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AddArtistPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Pages\\AddArtistPage.xaml.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\Pages\\AddArtistPage.xaml.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Pages\\AddArtistPage.xaml.cs",
+              "RelativeToolTip": "ArtistsManager.UI\\Pages\\AddArtistPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:43:12.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AddSongPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Pages\\AddSongPage.xaml.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\Pages\\AddSongPage.xaml.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Pages\\AddSongPage.xaml.cs",
+              "RelativeToolTip": "ArtistsManager.UI\\Pages\\AddSongPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T21:27:30.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "ArtistsManager.UI\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.UI\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "ArtistsManager.UI\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T08:51:28.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FakeRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistManager.Persistence\\Repository\\FakeRepositories.cs",
+              "RelativeDocumentMoniker": "ArtistManager.Persistence\\Repository\\FakeRepositories.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistManager.Persistence\\Repository\\FakeRepositories.cs",
+              "RelativeToolTip": "ArtistManager.Persistence\\Repository\\FakeRepositories.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAwwGgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T09:40:39.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\naaan\\.nuget\\packages\\communitytoolkit.maui\\7.0.1\\ReadMe.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\communitytoolkit.maui\\7.0.1\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\naaan\\.nuget\\packages\\communitytoolkit.maui\\7.0.1\\ReadMe.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\communitytoolkit.maui\\7.0.1\\ReadMe.txt",
+              "ViewState": "AQIAABUAAAAAAAAAAIBZwCQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-22T15:06:35.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ArtistsManager.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistManager.Persistence\\ArtistsManager.Persistence.csproj",
+              "RelativeDocumentMoniker": "ArtistManager.Persistence\\ArtistsManager.Persistence.csproj",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistManager.Persistence\\ArtistsManager.Persistence.csproj",
+              "RelativeToolTip": "ArtistManager.Persistence\\ArtistsManager.Persistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T16:25:04.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ArtistsManager.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Domain\\ArtistsManager.Domain.csproj",
+              "RelativeDocumentMoniker": "ArtistsManager.Domain\\ArtistsManager.Domain.csproj",
+              "ToolTip": "C:\\Users\\naaan\\source\\C#\\ArtistsManager\\ArtistsManager.Domain\\ArtistsManager.Domain.csproj",
+              "RelativeToolTip": "ArtistsManager.Domain\\ArtistsManager.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-14T11:23:31.278Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 174,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

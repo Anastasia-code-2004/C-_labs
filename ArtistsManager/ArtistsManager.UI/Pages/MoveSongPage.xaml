@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:models="clr-namespace:ArtistsManager.UI.ViewModels"
+             x:Class="ArtistsManager.UI.Pages.MoveSongPage"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             x:DataType="models:MoveSongViewModel">
+    <ContentPage.Behaviors>
+        <toolkit:EventToCommandBehavior EventName="Loaded"  
+                                        Command="{Binding UpdateArtistsCommand}"/>
+    </ContentPage.Behaviors>
+    <VerticalStackLayout>
+        <Picker Title="Select Artist"
+            HeightRequest="60" 
+            WidthRequest="800"
+            ItemsSource="{Binding Artists}"
+            ItemDisplayBinding="{Binding PersonalData.Name}"
+            SelectedItem="{Binding SelectedArtist}">
+       </Picker>
+        <Button Margin="0, 20, 0, 0" WidthRequest="800" BackgroundColor="#f4a261"
+                Text="Move Song" Command="{Binding MoveSongCommand}"/>
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:NikolaychikLAB1"
+             x:DataType="local:LoadingPage"
+             x:Class="NikolaychikLAB1.LoadingPage"
+             Title="ProgressBar">
+    <ContentPage.Resources>
+
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <Setter Property="BackgroundColor" Value="#D71868" />
+            <Setter Property="TextColor" Value="White" />
+            <Setter Property="WidthRequest" Value="100" />
+            <Setter Property="VerticalOptions" Value="End" />
+            <Setter Property="Margin" Value="15" />
+            <Setter Property="FontSize" Value="Medium" />
+        </Style>
+
+    </ContentPage.Resources>
+    
+    <Grid>
+        <Label 
+            Text="{Binding CurrentText}"
+            Margin="5"
+            FontSize="{OnPlatform WinUI = 32}"
+            HorizontalOptions="Center"/>
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+            <ProgressBar 
+                         ProgressColor="#F664AF"
+                         WidthRequest="{OnPlatform WinUI = 500,Android = 290}"
+                         Progress="{Binding Progress}"/>
+            <Label VerticalOptions="Center"
+                   Margin="10"
+                   FontSize="{OnPlatform WinUI = 20}"
+                   Text="{Binding Percents}"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+            <Button x:Name="StartBtn"
+                Text="Start"
+                FontSize="{OnPlatform WinUI = 20}"
+                Style="{StaticResource ButtonStyle}"
+                Clicked="Start_Clicked"/>
+
+            <Button x:Name="CancelBtn"
+                Text="Cancel"
+                FontSize="{OnPlatform WinUI = 20}"
+                Style="{StaticResource ButtonStyle}"
+                Clicked="Cancel_Clicked"/>
+        </StackLayout>
+
+    </Grid>
+</ContentPage>

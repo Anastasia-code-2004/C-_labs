@@ -1,0 +1,15 @@
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Application\bin\Debug\net8.0\ArtistsManager.Application.deps.json
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Application\bin\Debug\net8.0\ArtistsManager.Application.dll
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Application\bin\Debug\net8.0\ArtistsManager.Application.pdb
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Application\bin\Debug\net8.0\ArtistsManager.Domain.dll
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Application\bin\Debug\net8.0\ArtistsManager.Domain.pdb
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Application\obj\Debug\net8.0\ArtistsManager.Application.csproj.AssemblyReference.cache
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Application\obj\Debug\net8.0\ArtistsManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Application\obj\Debug\net8.0\ArtistsManager.Application.AssemblyInfoInputs.cache
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Application\obj\Debug\net8.0\ArtistsManager.Application.AssemblyInfo.cs
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Application\obj\Debug\net8.0\ArtistsManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Application\obj\Debug\net8.0\ArtistsM.A24EAB7E.Up2Date
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Application\obj\Debug\net8.0\ArtistsManager.Application.dll
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Application\obj\Debug\net8.0\refint\ArtistsManager.Application.dll
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Application\obj\Debug\net8.0\ArtistsManager.Application.pdb
+C:\Users\naaan\source\C#\ArtistsManager\ArtistsManager.Application\obj\Debug\net8.0\ref\ArtistsManager.Application.dll
